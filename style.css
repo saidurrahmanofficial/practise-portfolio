@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.img{
+    height: 400px;
+    background-image: url(img/background\ .jpg);
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: fantasy;
+
+}
+.navbar{
+    background-color: gold;
+
+    
+}
+.navbar a:hover{
+    background-color: bisque;
+    border-radius: 50%;
+}
+
+
+.skill{
+    background-color: bisque;
+    border-radius: 57%;
+}
+.i{
+    background-color: antiquewhite;
+}
